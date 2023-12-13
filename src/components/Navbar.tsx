@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React, { useState } from "react";
 import { RxHamburgerMenu } from "react-icons/rx";
-import { AiOutlineClose, AiOutlineSearch, AiOutlineShoppingCart } from "react-icons/ai";
+import { AiOutlineClose, AiOutlineShoppingCart } from "react-icons/ai";
 import { useAppSelector } from "@/redux/hooks";
 
 
@@ -40,7 +40,7 @@ const NavBar = ({setShowCart}: any) => {
           {/* <li className="navLink">Contact</li> */}
         </ul>
 
-        <div className="flex gap-6 text-[26px]">
+        <div className="flex gap-6 text-[26px] mr-2">
           <div className="relative cursor-pointer"
             onClick={()=> setShowCart(true)}
           >
@@ -51,7 +51,6 @@ const NavBar = ({setShowCart}: any) => {
               {cartCount}
             </div>
           </div>
-          <AiOutlineSearch />
         </div>
       </div>
       {isMenuOpen && (
