@@ -1,0 +1,148 @@
+[
+    {
+      "id": 0,
+      "img": "/product__1.png",
+      "name": "Wild Clear Lipstick",
+      "price": 380,
+      "category": ["lipsticks"],
+      "sale": false
+    },
+    {
+      "id": 1,
+      "img": "/product__2.png",
+      "name": "Wild Aqua Lipstick",
+      "price": 399,
+      "category": ["lipsticks"],
+      "sale": false
+    },
+    {
+      "id": 2,
+      "img": "/product__3.png",
+      "name": "Wild Slik Lipstick",
+      "price": 309,
+      "category": ["lipsticks"],
+      "sale": false
+    },
+    {
+      "id": 3,
+      "img": "/product__4.png",
+      "name": "Wild Famous Lipstick1",
+      "price": 449,
+      "category": ["lipsticks", "makeup"],
+      "sale": true,
+      "comp": "New india"
+    },
+    {
+      "id": 4,
+      "img": "/product__5.png",
+      "name": "Wild Organic Lipstick",
+      "price": 299,
+      "category": ["skin care"],
+      "sale": false
+    },
+    {
+      "id": 5,
+      "img": "/product__6.png",
+      "name": "Gel Nail Polish",
+      "price": 540,
+      "category": ["nail & wax"],
+      "sale": false
+    },
+    {
+      "id": 6,
+      "img": "/product__7.png",
+      "name": "Pink Gel Nail Polish",
+      "price": 660,
+      "category": ["nail & wax"],
+      "sale": false
+    },
+    {
+      "id": 7,
+      "img": "/product__8.png",
+      "name": "Iconic Gel Nail Polish",
+      "price": 749,
+      "category": ["nail & wax"],
+      "sale": false
+    },
+    {
+      "id": 8,
+      "img": "/product__9.png",
+      "name": "Melody Gel Nail Polish",
+      "price": 660,
+      "category": ["nail & wax"],
+      "sale": false
+    },
+    {
+      "id": 9,
+      "img": "/product__11.png",
+      "name": "Washable Maskara",
+      "price": 699,
+      "category": ["makeup"],
+      "sale": false
+    },
+    {
+      "id": 10,
+      "img": "/product__12.png",
+      "name": "Only you Mashkara",
+      "price": 399,
+      "category": ["skin care"],
+      "sale": false
+    },
+    {
+      "id": 11,
+      "img": "/product__13.png",
+      "name": "Melody Cleanser",
+      "price": 379,
+      "category": ["nail & wax"],
+      "sale": false
+    },
+    {
+      "id": 12,
+      "img": "/product__14.png",
+      "name": "Melody Gel Nail Polish",
+      "price": 459,
+      "category": ["makeup","nail & wax"],
+      "sale": false
+    },
+    {
+      "id": 13,
+      "img": "/product__15.png",
+      "name": "Season Nail Polish",
+      "price": 419,
+      "category": ["makeup","nail & wax"],
+      "sale": false
+    },
+    {
+      "id": 14,
+      "img": "/product__16.png",
+      "name": "Winter Nail Polish",
+      "price": 519,
+      "category": ["makeup","nail & wax"],
+      "sale": false
+    },
+    {
+      "id": 15,
+      "img": "/product__17.png",
+      "name": "Aqua Eye Shadow",
+      "price": 799,
+      "category": ["makeup","nail & wax"],
+      "sale": false
+    },
+    {
+      "id": 16,
+      "img": "/product__17.png",
+      "name": "Ginger Eyeshadow",
+      "price": 619,
+      "category": ["makeup"],
+      "sale": false
+    },
+    {
+      "id": 17,
+      "img": "/product__18.png",
+      "name": "Gorgo Eyeshadow",
+      "price": 719,
+      "category": ["makeup"],
+      "sale": false
+    }
+  ]
+  
